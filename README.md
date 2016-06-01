@@ -1,2 +1,9 @@
-# gogoodreads
-Go Good Reads - Collections of good articles, blog posts, videos about Go programming language
+# Go Good Reads
+Collections of good articles, blog posts, videos about Go programming language
+
+## Best practices
+- [Effective Go] (http://golang.org/doc/effective_go.html)
+- [Twelve Go best practices] (https://talks.golang.org/2013/bestpractices.slide)
+- [What's in a name?] (https://talks.golang.org/2014/names.slide#1)
+- [Go best practices, six years in] (https://peter.bourgon.org/go-best-practices-2016/)
+- [Go Code Review Comments] (https://github.com/golang/go/wiki/CodeReviewComments)
