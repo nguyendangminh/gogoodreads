@@ -7,3 +7,6 @@ Collections of good articles, blog posts, videos about Go programming language
 - [What's in a name?] (https://talks.golang.org/2014/names.slide#1)
 - [Go best practices, six years in] (https://peter.bourgon.org/go-best-practices-2016/)
 - [Go Code Review Comments] (https://github.com/golang/go/wiki/CodeReviewComments)
+
+## Talks
+- [When in Go, do as Gophers do] (https://talks.golang.org/2014/readability.slide#1)
