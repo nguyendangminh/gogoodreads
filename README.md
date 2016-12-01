@@ -8,5 +8,10 @@ Collections of good articles, blog posts, videos about Go programming language
 - [Go best practices, six years in] (https://peter.bourgon.org/go-best-practices-2016/)
 - [Go Code Review Comments] (https://github.com/golang/go/wiki/CodeReviewComments)
 
+## How Go was made
+- [How Go was made - Andrew Gerrand] (https://talks.golang.org/2015/how-go-was-made.slide)
+- [Codebase refactoring (with help from Go) - Russ Cox] (https://talks.golang.org/2016/refactor.article)
+- [Go at Google: Language Design in the Service of Software Engineering - Rob Pike] (https://talks.golang.org/2012/splash.article)
+
 ## Talks
 - [When in Go, do as Gophers do] (https://talks.golang.org/2014/readability.slide#1)
