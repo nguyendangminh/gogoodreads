@@ -15,3 +15,6 @@ Collections of good articles, blog posts, videos about Go programming language
 
 ## Talks
 - [When in Go, do as Gophers do](https://talks.golang.org/2014/readability.slide#1)
+
+## Understand Go
+- [Errors are values - Rob Pike](https://blog.golang.org/errors-are-values)
